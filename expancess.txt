@@ -1,0 +1,8 @@
+EmpId,Name,ExpenseType,Expense
+003,Amit,TRAV,2000
+001,Amol,FOOD,1500
+003,Amit,TAXI,500
+002,Ashwit,TRAV,2500
+001,Amol,TRAV,300
+004,Rohit,MISC,500
+002,Ashwit,FOOD,700
